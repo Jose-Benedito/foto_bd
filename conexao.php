@@ -2,7 +2,7 @@
  $servidor = 'localhost';
  $banco = 'catalogo';
  $usuario = 'root';
- $senha = 'jsbach123';
+ $senha = ''; // Colocar a senha se for preciso
 
  try
  {
